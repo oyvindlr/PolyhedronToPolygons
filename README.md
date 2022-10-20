@@ -73,3 +73,4 @@ Documentation of the main function:
 % more polygon definitions. 
 %
 ```
+[![View PolyhedronToPolygons on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/119313-polyhedrontopolygons)
